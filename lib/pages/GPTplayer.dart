@@ -14,8 +14,8 @@ class Player12 extends StatefulWidget {
 
 class _PlayerState extends State<Player12> {
   String Mtrack = "6K4t31amVTZDgR3sKmwUJJ?si=3c5c036c919e4ec7";
-  String clientId = "4dbd7f37808040bf8235f336280a12b1";
-  String clientSecret = "f75b9b8af3b64e519752652f58316c25";
+  String clientId = "**";
+  String clientSecret = "**";
   String songName = "";
   String artistName = "";
   final player = AudioPlayer();
