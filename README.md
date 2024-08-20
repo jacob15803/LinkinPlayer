@@ -1,4 +1,4 @@
-# partic
+# LinkinPlayer
 
 A new Flutter project.
 
