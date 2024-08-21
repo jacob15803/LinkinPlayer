@@ -1,16 +1,12 @@
 # LinkinPlayer
 
-A new Flutter project.
+LinkinPlayer is a sleek and simple music player app built using Flutter. This app allows users to play their favorite tracks by inputting music track links. It leverages the Spotify API to access a vast library of music and retrieve detailed information about each track.
 
-## Getting Started
+## Features
 
-This project is a starting point for a Flutter application.
+Input Music Links: Users can paste music track links to play songs instantly.
 
-A few resources to get you started if this is your first Flutter project:
+Spotify Integration: Utilizes the Spotify API to fetch music details and play tracks.
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+Two-Page Interface: Easy navigation between the music input page and the player page.
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
